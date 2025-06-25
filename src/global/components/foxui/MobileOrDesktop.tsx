@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import { useIsMobile } from '@/global/hooks/use-mobile'
+import { useIsMobile } from '@/hooks/use-mobile'
 
 
 /**
