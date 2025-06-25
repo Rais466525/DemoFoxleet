@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* @custom-variant dark (&:is(.dark *)); */
+@custom-variant dark (&:is(.dark *));
+
+@import './constants.css';
+@import './themes/root.css';
+
+body {
+  @apply bg-[#09090b] text-foreground h-dvh;
+}

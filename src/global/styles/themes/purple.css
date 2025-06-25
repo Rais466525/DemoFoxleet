@@ -1,0 +1,33 @@
+.purple {
+  --background: hsl(224, 71%, 4%);
+  --foreground: hsl(210, 20%, 98%);
+  --card: hsl(220, 45%, 6%);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: hsl(220, 45%, 6%);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: hsl(263, 68%, 46%);
+  --primary-foreground: hsl(210, 20%, 98%);
+  --secondary: hsl(215, 28%, 17%);
+  --secondary-foreground: hsl(210, 20%, 98%);
+  --muted: hsl(215, 28%, 17%);
+  --muted-foreground: hsl(218, 11%, 65%);
+  --accent: hsl(263, 68%, 46%);
+  --accent-foreground: hsl(210, 20%, 98%);
+  --destructive: red;
+  --border: hsl(215, 28%, 17%);
+  --input: hsl(215, 28%, 17%);
+  --ring: hsl(261, 66%, 29%);
+  --chart-1: hsl(263, 68%, 46%);
+  --chart-2: hsl(263, 68%, 46%);
+  --chart-3: hsl(263, 68%, 46%);
+  --chart-4: hsl(263, 68%, 46%);
+  --chart-5: hsl(263, 68%, 46%);
+  --sidebar: oklch(0.21 0.006 285.885);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.274 0.006 286.033);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.552 0.016 285.938);
+}
